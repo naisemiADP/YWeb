@@ -1,0 +1,25 @@
+/**
+ * Theme Name:  Sonaar Child Theme - Ultimate Creative Music WP Theme
+ * Theme URI:   https://sonaar.io/
+ * Description: Sonaar is a complete solution for everybody in the music industry.
+ *
+ * Author:      Sonaar
+ * Author URI:  https://sonaar.io
+ *
+ * Version:     1.0
+ * Template:    sonaar
+ * Text Domain: sonaar-child
+ *
+ * License:     GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ */
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+table {
+	
+	border-width:0px;
+}
