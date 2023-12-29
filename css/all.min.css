@@ -5846,7 +5846,7 @@
     font-weight: normal;
     font-display: auto;
     src: url(fa-brands-400.eot);
-    src: url(fa-brands-400.eot?#iefix) format("embedded-opentype"),url("https://public.bl.files.1drv.com/y4mxy1ap3McJ3ikmJcn-7TJTjckP5cvfnp9eNvkd5x1d15dbGxn9GMVYUfaINW0yQFiybdz2u2uFtl-EqmqMXnwsw0e7kxJAK-siDt7SFGqXqUgqeSH_Ci0UldhCFebG5gSJdVXbh8ouPNQOAmL0VzkhVgw9lDzCIz825QHv0dJZklDg0hZUl8H0UIGsrRXTaPlzQx9Ii0mK_wRyk6xkoEWYu-bqB9nQ8UqV0NX66-wgb8?AVOverride=1") format("woff2"),url(fa-brands-400.woff) format("woff"),url(fa-brands-400.ttf) format("truetype"),url(fa-brands-400.svg#fontawesome) format("svg")
+    src: url(fa-brands-400.eot?#iefix) format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@main/fonts/fa-brands-400.woff2") format("woff2"),url(fa-brands-400.woff) format("woff"),url(fa-brands-400.ttf) format("truetype"),url(fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -5872,7 +5872,7 @@
     font-weight: 900;
     font-display: auto;
     src: url(fa-solid-900.eot);
-    src: url(fa-solid-900.eot?#iefix) format("embedded-opentype"),url("https://public.bl.files.1drv.com/y4mcwriflvsJSRM8UW8FUE5mis6yEu5RU0rt7bN4nX282iDYDzNstRHUI72ixzkg1DuL0IxRdFddMSWm9Lw-Hq00bB46j935d_b53_dwbY8SINFR7WEsodOvzvVH1t5dPZ9tMx62RpjQxXwxCUAiZvi1iQyrEvZJN3Qpax6b43hgjynho72BCChBexEBNu2A13y74KJmDn4lRoUqSJF3nCllLibsDiM7fYcAXWFLNTWCCA?AVOverride=1") format("woff2"),url(fa-solid-900.woff) format("woff"),url(fa-solid-900.ttf) format("truetype"),url(fa-solid-900.svg#fontawesome) format("svg")
+    src: url(fa-solid-900.eot?#iefix) format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@main/fonts/fa-solid-900.woff2") format("woff2"),url(fa-solid-900.woff) format("woff"),url(fa-solid-900.ttf) format("truetype"),url(fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,.far,.fas {
