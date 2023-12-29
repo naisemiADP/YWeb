@@ -3720,7 +3720,7 @@
     font-style: normal;
     font-weight: 400;
     src: url(fa-brands-400.eot);
-    src: url(fa-brands-400.eot?#iefix) format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@main/fonts/fa-brands-400.woff2") format("woff2"),url(fa-brands-400.woff) format("woff"),url(fa-brands-400.ttf) format("truetype"),url(fa-brands-400.svg#fontawesome) format("svg")
+    src: url(fa-brands-400.eot?#iefix) format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@latest/fonts/fa-brands-400.woff2") format("woff2"),url(fa-brands-400.woff) format("woff"),url(fa-brands-400.ttf) format("truetype"),url(fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -3744,7 +3744,7 @@
     font-style: normal;
     font-weight: 900;
     src: url(fa-solid-900.eot);
-    src: url(fa-solid-900.eot?#iefix) format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@main/fonts/fa-solid-900.woff2") format("woff2"),url(fa-solid-900.woff) format("woff"),url(fa-solid-900.ttf) format("truetype"),url(fa-solid-900.svg#fontawesome) format("svg")
+    src: url(fa-solid-900.eot?#iefix) format("embedded-opentype"),url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@latest/fonts/fa-solid-900.woff2") format("woff2"),url(fa-solid-900.woff) format("woff"),url(fa-solid-900.ttf) format("truetype"),url(fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,.far,.fas {

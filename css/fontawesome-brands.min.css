@@ -1,2 +1,2 @@
-@font-face { font-family: "Font Awesome 5 Brands"; font-style: normal; font-weight: normal; font-display: auto; src: url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@main/fonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
+@font-face { font-family: "Font Awesome 5 Brands"; font-style: normal; font-weight: normal; font-display: auto; src: url("https://cdn.jsdelivr.net/gh/naisemiADP/YWeb@latest/fonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
 .fab { font-family: "Font Awesome 5 Brands"; }
